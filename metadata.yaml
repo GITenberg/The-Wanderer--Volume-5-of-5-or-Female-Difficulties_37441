@@ -1,0 +1,33 @@
+_repo: The-Wanderer--Volume-5-of-5-or-Female-Difficulties_37441
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burney, Fanny
+    aliases:
+    - D'Arblay, Frances Burney
+    - Burney, Frances
+    birthdate: 1752
+    deathdate: 1840
+    gutenberg_agent_id: '2010'
+    url: http://www.gutenberg.org/2009/agents/2010
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Burney
+description: ''
+gutenberg_issued: '2011-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Refugees -- Fiction'
+- !lcsh 'War stories'
+- !lcsh 'Refugees -- Fiction'
+title: The Wanderer; or, Female Difficulties (Volume 5 of 5)
+url: http://www.gutenberg.org/ebooks/37441
